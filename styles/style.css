@@ -15,6 +15,7 @@
 }
 
 body{
+    height: 100vh;
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
