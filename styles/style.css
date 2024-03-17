@@ -93,6 +93,16 @@ body{
 .apresentacao__imagem{
     width: 50%;
 }
+.apresentacao__imagem2{
+    width: 20%;     
+}
+.apresentacao__links2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
 /*.rodape{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
