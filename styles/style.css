@@ -126,6 +126,13 @@ body{
     .cabecalho__menu{
         justify-content: center;
     }
+
+    .apresentacao__imagem2{
+        width: 20%;   
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 3%;
     .apresentacao{
         flex-direction: column-reverse;
         padding: 10%;
